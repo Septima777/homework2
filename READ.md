@@ -1,0 +1,1 @@
+A simple recursive function of fibonacci is so slow because it has to recusive 2 rounds. First round from fibonacci(n-1) and second round is fibonacci(n-2), it has to do the same 2 rounds so it is slow even for fairly small values.
